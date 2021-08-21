@@ -1,7 +1,7 @@
 # stage2_apptest
 
 A new Flutter project that designs qoutes
-https://user-images.githubusercontent.com/81052783/130188155-d320f2db-1aae-490f-8d69-b5a18c408313.png
+![77](https://user-images.githubusercontent.com/59166014/130337259-a61dd2b2-cc39-4f9d-a4ab-5c9be174872e.png)
 
 
 
