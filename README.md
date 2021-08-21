@@ -1,16 +1,17 @@
 # stage2_apptest
 
 A new Flutter project that designs qoutes
+https://user-images.githubusercontent.com/81052783/130188155-d320f2db-1aae-490f-8d69-b5a18c408313.png
+
+
+
+More about HNG internship at https://zuri.team, https://internship.zuri.team or https://training.zuri.team.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/59166014/130337214-4d32e7bc-9dad-45ae-accb-8e5f8a220546.mp4
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can view the app via  https://appetize.io/app/bk2mtwrn3vnfc8jvqea64vfqbm
