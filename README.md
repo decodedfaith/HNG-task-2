@@ -13,7 +13,9 @@ More about HNG internship at https://zuri.team, https://internship.zuri.team or 
 
 ![bandicam 2021-08-21 23-49-12-331](https://user-images.githubusercontent.com/59166014/130337698-5d3c0b57-314e-4d3b-9677-95f05deee72c.gif)
 
+
 You can view the app via https://appetize.io/app/bk2mtwrn3vnfc8jvqea64vfqbm
+
 
 https://user-images.githubusercontent.com/59166014/130337214-4d32e7bc-9dad-45ae-accb-8e5f8a220546.mp4
 
